@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **AJAX , DOM ,REACT**
 
-- 👨‍💻 All of my projects are available at [https://vaishnavikadukar.github.io/tfa-assignment2/](https://vaishnavikadukar.github.io/tfa-assignment2/)
-
 - 💬 Ask me about **Programming concept**
 
 - 📫 How to reach me **vaishnavikadukar124@gmail.com**
