@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi kadukar</h1>
 <h3 align="center">Dream to work as a MERN developer</h3>
 
-- 🔭 I’m currently working on [Github-clone](https://vaishnavikadukar.github.io/tfa-assignment2/VaishnavikadukarResume.pdf)
+- 🔭 I’m currently working on [Github-clone](https://vaishnavikadukar.github.io/assignment-project-2/)
 
 - 🌱 I’m currently learning **AJAX , DOM ,REACT**
 
@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavikadukar&show_icons=true&locale=en" alt="vaishnavikadukar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavikadukar&" alt="vaishnavikadukar" /></p>
-
