@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi kadukar</h1>
-<h3 align="center">Dream to work as a MERN developer</h3>
+<h3 align="center">Dream to work as a developer</h3>
 
 - 🔭 I’m currently working on [Github-clone](https://vaishnavikadukar.github.io/assignment-project-2/)
 
