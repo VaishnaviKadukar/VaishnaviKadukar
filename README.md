@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Github-clone](https://vaishnavikadukar.github.io/Github-Clone/)
 
-- 🌱 I’m currently learning **AJAX , DOM ,REACT**
+- 🌱 I’m currently learning **Full stack development**
 
 - 👨‍💻 Here is all my info available to you [Portfolio](https://vaishnavikadukar.github.io/Portfolio/)
 
