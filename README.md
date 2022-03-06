@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **AJAX , DOM ,REACT**
 
-- 👨‍💻 All of my projects are available at [https://vaishnavikadukar.github.io/tfa-assignment2/](https://vaishnavikadukar.github.io/tfa-assignment2/)
+- 👨‍💻 All of my projects are available at https://vaishnavikadukar.github.io/Portfolio/
 
-- 📫 How to reach me **vaishnavikadukar124@gmail.com**
+- 📫 How to reach me **vaishnavikadukar89@gmail.com**
 
 - ⚡ Fun fact **I can make people laugh**
 
