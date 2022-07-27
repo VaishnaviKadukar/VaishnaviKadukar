@@ -7,7 +7,7 @@
 
 - 👨‍💻 Here is all my info available to you [Portfolio](https://vaishnavikadukar.github.io/Portfolio/)
 
-- 📫 How to reach me **vaishnavikadukar89@gmail.com**
+- 📫 How to reach me **vaishnavikadukar101@gmail.com**
 
 - ⚡ Fun fact **I can make people laugh**
 
