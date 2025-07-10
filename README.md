@@ -38,8 +38,8 @@
 
 📫 **Let’s Connect!**
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-linkedin)  
-- ✉️ Email: your.email@example.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vaishnavi-kadukar-a9840a203/)  
+- ✉️ Email: vaishnavikadukar300@gmail.com
 
 ---
 
