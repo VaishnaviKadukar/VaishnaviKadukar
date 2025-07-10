@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi kadukar</h1>
-<h3 align="center">Dream to work as a developer</h3>
+<h3 align="center">Jr. SAP Basis Consultant</h3>
 
-- 🔭 I’m currently working on [Github-clone](https://vaishnavikadukar.github.io/Github-Clone/)
+- 🔭 Working as a Jr. SAP Basis Consultant, actively involved in both support and technical projects, ensuring smooth system operations and contributing to technical implementations.
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 Currently expanding knowledge in **SAP Business Technology Platform (BTP)** to align with evolving enterprise cloud landscapes.
 
-- 👨‍💻 Here is all my info available to you [Portfolio](https://vaishnavikadukar.github.io/Portfolio/)
+- 👨‍💻 Here is all my info available to you [LinkedIn](https://www.linkedin.com/in/vaishnavi-kadukar-a9840a203/)
 
-- 📫 How to reach me **vaishnavikadukar101@gmail.com**
+- 📫 How to reach me **vaishnavikadukar300@gmail.com**
 
 - ⚡ Fun fact **I can make people laugh**
 
